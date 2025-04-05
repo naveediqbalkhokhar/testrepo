@@ -1,2 +1,2 @@
 # testrepo
-Test repository for Getting started with Git and Github course link check
+It's a markdown file in this repository
